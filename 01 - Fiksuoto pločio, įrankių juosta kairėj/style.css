@@ -1,0 +1,51 @@
+body {
+	background-color: #f8f8f8;
+	font-family: Calibri;
+}
+
+#konteineris {
+	width: 800px;
+	margin: 1em auto;
+}
+
+header,
+footer {
+	background-color: #3F3F3F;
+	color: white;
+}
+
+header {
+	padding: 10px 30px;
+}
+
+#turinys {
+	overflow: auto;
+	background-color: #E7E7E7;
+	padding: 15px;
+}
+
+#turinys aside section,
+#turinys #irasai article {
+	background-color: white;
+	padding: 20px;
+	margin: 10px;
+}
+
+#turinys aside {
+	width: 180px;
+	float: left;
+}
+
+#turinys aside nav ul li {
+	list-style-type: none;
+}
+
+#turinys #irasai {
+	width: 580px;
+	float: right;
+}
+
+footer {
+	padding: 2px 25px;
+	text-align: right;
+}

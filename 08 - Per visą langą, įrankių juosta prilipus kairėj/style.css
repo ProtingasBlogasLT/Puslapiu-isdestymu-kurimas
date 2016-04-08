@@ -1,0 +1,30 @@
+body {
+	font-family: Calibri;
+	background-color: #f8f8f8;
+}
+
+aside {
+	background-color: #2A2A2A;
+	color: white;
+	position: fixed;
+	width: 250px;
+	height: 100%;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	padding: 15px;
+}
+
+header h1 {
+	font-size: 2em;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	margin-bottom: 20px;
+}
+
+#turinys {
+	margin-left: 300px;
+}

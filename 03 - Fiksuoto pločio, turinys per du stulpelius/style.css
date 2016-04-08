@@ -1,0 +1,67 @@
+body {
+	font-family: Calibri;
+	background-color: #f8f8f8;
+}
+
+#konteineris {
+	width: 1000px;
+	margin: 1em auto;
+}
+
+header,
+footer {
+	background-color: #292929;
+	color: white;
+}
+
+header h1 {
+	padding: 30px 40px 10px;
+}
+
+header nav {
+	background-color: #494949;
+	padding: 1px;
+}
+
+header nav ul {
+	margin-left: -20px;
+}
+
+header nav ul li {
+	list-style-type: none;
+	display: inline;
+	margin: 2px 10px;
+	background-color: #242424;
+	padding: 5px 10px;
+}
+
+header nav a {
+	color: #E5E9B7;
+	text-decoration: none;
+}
+
+#turinys {
+	background-color: #DDDDDD;
+	padding: 10px;
+	overflow: auto;
+}
+
+#turinys article {
+	width: 420px;
+	background-color: white;
+	padding: 20px;
+	margin: 10px;
+}
+
+#turinys article:nth-child(odd) {
+	float: left;
+}
+
+#turinys article:nth-child(even) {
+	float: right;
+}
+
+footer {
+	text-align: right;
+	padding: 1px 30px;
+}

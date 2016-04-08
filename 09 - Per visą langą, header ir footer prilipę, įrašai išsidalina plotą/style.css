@@ -1,0 +1,68 @@
+body {
+	background-color: #f8f8f8;
+	font-family: Calibri;
+}
+
+header,
+footer {
+	background-color: #242424;
+	color: white;
+}
+
+header {
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	padding: 10px 40px;
+}
+
+header h1 {
+	float: left;
+	width: 30%;
+}
+
+header nav {
+	float: right;
+	width: 70%;
+	text-align: right;
+	margin-top: 10px;
+}
+
+header nav ul li {
+	display: inline;
+	margin-left: 15px;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	color: #E8E8E8;
+	font-size: 1.5em;
+}
+
+header nav ul li a:hover {
+	color: #BEBEBE;
+}
+
+#turinys {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	overflow: auto;
+}
+
+#turinys article {
+	background-color: white;
+	width: 18%;
+	padding: 20px;
+	margin: 20px;
+	float: left;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: right;
+	padding: 8px 15px;
+}
