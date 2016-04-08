@@ -1,4 +1,3 @@
-# HTML5-and-CSS3-layouts
-Codes from my video tutorials
+#Puslapių išdėstymų kūrimas
 
-My video tutorials in Lithuanian language are at here: https://www.youtube.com/playlist?list=PLKofrzwSXUn2DesK_cqLTOc0FvREBftxJ
+Tai kodai iš šių video pamokų https://www.youtube.com/playlist?list=PLKofrzwSXUn2DesK_cqLTOc0FvREBftxJ
